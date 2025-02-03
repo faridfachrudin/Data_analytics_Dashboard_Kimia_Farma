@@ -23,3 +23,6 @@ Tools yang Digunakan 🛠
 🔹 Looker Studio
 •	Alat visualisasi data dari Google yang memungkinkan pembuatan laporan dan dashboard interaktif.
 •	Mempermudah pemahaman data dengan tampilan yang lebih menarik dan dapat diakses oleh berbagai pihak yang berkepentingan.
+
+Dashboard
+https://github.com/faridfachrudin/Data_analytics_Dashboard_Kimia_Farma/blob/main/WhatsApp%20Image%202025-02-02%20at%2007.14.51.jpeg
