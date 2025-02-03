@@ -1,8 +1,8 @@
 # Data_analytics_Dashboard_Kimia_Farma
-Final Task Completed! 🎉 
+## Final Task Completed! 🎉 
 Telah menyelesaikan tugas akhir dalam program ini, yang mencerminkan pemahaman dan keterampilan Anda dalam mengolah data besar (Big Data), melakukan analisis bisnis, serta membangun visualisasi data yang informatif.
 ________________________________________
-Tugas yang Dikerjakan 📌
+## Tugas yang Dikerjakan 📌
 Berikut adalah tahapan tugas yang telah Anda selesaikan:
 ✅ Mengimpor dataset ke BigQuery
 •	Mengunggah dan menyimpan dataset ke dalam Google BigQuery, sebuah platform penyimpanan dan analisis data berbasis cloud yang memungkinkan pemrosesan data dalam skala besar dengan cepat dan efisien.
@@ -16,7 +16,7 @@ Berikut adalah tahapan tugas yang telah Anda selesaikan:
 •	Menampilkan tren pendapatan Kimia Farma selama empat tahun terakhir melalui berbagai visualisasi seperti line charts, bar charts, dan heatmaps.
 •	Memberikan wawasan bisnis yang dapat digunakan untuk pengambilan keputusan berdasarkan data yang telah diolah.
 ________________________________________
-Tools yang Digunakan 🛠
+## Tools yang Digunakan 🛠
 🔹 Google BigQuery
 •	Platform cloud berbasis SQL untuk penyimpanan dan analisis data skala besar dengan performa tinggi.
 •	Memungkinkan pengolahan data secara serverless, sehingga tidak memerlukan infrastruktur tambahan.
@@ -24,5 +24,5 @@ Tools yang Digunakan 🛠
 •	Alat visualisasi data dari Google yang memungkinkan pembuatan laporan dan dashboard interaktif.
 •	Mempermudah pemahaman data dengan tampilan yang lebih menarik dan dapat diakses oleh berbagai pihak yang berkepentingan.
 
-Dashboard
+## Dashboard
 https://github.com/faridfachrudin/Data_analytics_Dashboard_Kimia_Farma/blob/main/WhatsApp%20Image%202025-02-02%20at%2007.14.51.jpeg
